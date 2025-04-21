@@ -1,7 +1,10 @@
-hello world 
+# Hello, Python!
 
-This is Christin Kiyeon Kim.
+This is my beginner Python practice repo.
 
+📁 `python_basics/` contains:
+- if/else/elif practice
+- notes from early Python study
 
-I'm a classically trained cellist. 
+More content will be added as I keep learning!
 
